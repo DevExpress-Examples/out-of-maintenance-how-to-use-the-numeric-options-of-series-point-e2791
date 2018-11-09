@@ -1,4 +1,4 @@
-﻿<Window x:Class="Chart_PointOptions.MainWindow"
+<Window x:Class="Chart_PointOptions.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="262" Width="506" xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/charts">
