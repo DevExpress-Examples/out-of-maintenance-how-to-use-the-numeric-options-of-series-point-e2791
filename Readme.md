@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Chart_PointOptions/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Chart_PointOptions/MainWindow.xaml))
+<!-- default file list end -->
 # How to use the numeric options of series point
 
 
