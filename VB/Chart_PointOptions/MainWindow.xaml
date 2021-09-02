@@ -5,7 +5,7 @@
     <Grid>
         <dxc:ChartControl EnableAnimation="True">
             <dxc:ChartControl.Legend>
-                <dxc:Legend />
+                <dxc:Legend/>
             </dxc:ChartControl.Legend>
             <dxc:ChartControl.Diagram>
                 <dxc:XYDiagram2D x:Name="diagram">
@@ -23,20 +23,20 @@
                             <dxc:AreaSeries2D.PointOptions>
                                 <dxc:PointOptions Pattern="${V}">
                                     <dxc:PointOptions.ValueNumericOptions>
-                                        <dxc:NumericOptions Precision="2" Format="FixedPoint" />
+                                        <dxc:NumericOptions Precision="2" Format="FixedPoint"/>
                                     </dxc:PointOptions.ValueNumericOptions>
                                     <dxc:PieSeries2D.PercentOptions>
-                                        <dxc:PercentOptions ValueAsPercent="False" />
+                                        <dxc:PercentOptions ValueAsPercent="False"/>
                                     </dxc:PieSeries2D.PercentOptions>
                                 </dxc:PointOptions>
                             </dxc:AreaSeries2D.PointOptions>
                             <!--endregion #PointOptions-->
                             
                             <dxc:AreaSeries2D.Label>
-                                <dxc:SeriesLabel Indent="25" />
+                                <dxc:SeriesLabel Indent="25"/>
                             </dxc:AreaSeries2D.Label>
                             <dxc:AreaSeries2D.MarkerModel>
-                                <dxc:DollarMarker2DModel />
+                                <dxc:DollarMarker2DModel/>
                             </dxc:AreaSeries2D.MarkerModel>
                         </dxc:AreaSeries2D>
 
